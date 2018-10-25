@@ -120,7 +120,7 @@ export async function setContext(app, context) {
       payload: context.payload,
       error: context.error,
       base: '/',
-      env: {"WS_URL":"wss://xxc.herokuapp.com/ws","BASE_URL":"https://xxc.herokuapp.com/","user_id":"","clienthash":"","serverhash":"","userhash":"","nonce":"","wallets":[{"id":1,"currency":"btc","amount":0},{"id":2,"currency":"eth","amount":0},{"id":3,"currency":"bnb","amount":0}]}
+      env: {"WS_URL":"wss://testcp44.herokuapp.com/ws","BASE_URL":"https://testcp44.herokuapp.com/","user_id":"","clienthash":"","serverhash":"","userhash":"","nonce":"","wallets":[{"id":1,"currency":"btc","amount":0},{"id":2,"currency":"eth","amount":0},{"id":3,"currency":"bnb","amount":0}]}
     }
     // Only set once
     if (context.req) app.context.req = context.req

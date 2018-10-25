@@ -7,6 +7,10 @@
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
 
+//!\ DECLARE ALIAS AFTER assign prototype !
+
+//!\ DECLARE ALIAS AFTER assign prototype !
+
 /**
  * @license
  * Lodash <https://lodash.com/>
