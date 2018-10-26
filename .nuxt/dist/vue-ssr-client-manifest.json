@@ -12,14 +12,14 @@
     "fonts/DJBDigital.e4210c9.ttf",
     "img/redchipl.8b09d4f.svg",
     "img/blackch.5ef9115.svg",
-    "pages/classicxixiv2.aedf83f86fa8348a3779.js",
-    "pages/classicxixiv1.f51a93a8505b680fc6ef.js",
-    "pages/index.b6cd8eea5c7d684bcefb.js",
+    "pages/classicxixiv2.1573d33d69fe9b289219.js",
+    "pages/classicxixiv1.accfd6d0d261b7e71fd6.js",
+    "pages/index.b3a0e3da7032b39323f9.js",
     "pages/classicmine.1c1d2cdfb54ff12b8371.js",
     "pages/classticketgame.9cc9e3fed3db6fa52a92.js",
     "fonts/FiraMono-Bold.ff79a44.otf",
     "pages/classicdoubtdice.a6b0a919051efe7d6a41.js",
-    "layouts/fullplay.932832d5f9c491dc8887.js",
+    "layouts/fullplay.a6e7295a2be2d52096b1.js",
     "pages/about.90353bc655b2f2bd172c.js",
     "layouts/default.792df06c8c93e56e5d8b.js",
     "pages/classicroulette.8596a66be06f3eec3a75.js",
@@ -28,26 +28,26 @@
     "pages/404.b5127783e6c2bc30f490.js",
     "pages/403.f13d05fef49de4a737e9.js",
     "vendor.48a608d6ef40658e526b.js",
-    "app.588650116da75435915e.js",
-    "manifest.c56572a4b94afd2cf66f.js",
+    "app.87bee5f2e7941a30c401.js",
+    "manifest.f79e5cee456f9ae9a778.js",
     "LICENSES",
     "index.spa.html",
     "index.ssr.html"
   ],
   "initial": [
-    "manifest.c56572a4b94afd2cf66f.js",
+    "manifest.f79e5cee456f9ae9a778.js",
     "vendor.48a608d6ef40658e526b.js",
-    "app.588650116da75435915e.js"
+    "app.87bee5f2e7941a30c401.js"
   ],
   "async": [
     "pages/slotmachine.229167637f58de8ed4be.js",
-    "pages/classicxixiv2.aedf83f86fa8348a3779.js",
-    "pages/classicxixiv1.f51a93a8505b680fc6ef.js",
-    "pages/index.b6cd8eea5c7d684bcefb.js",
+    "pages/classicxixiv2.1573d33d69fe9b289219.js",
+    "pages/classicxixiv1.accfd6d0d261b7e71fd6.js",
+    "pages/index.b3a0e3da7032b39323f9.js",
     "pages/classicmine.1c1d2cdfb54ff12b8371.js",
     "pages/classticketgame.9cc9e3fed3db6fa52a92.js",
     "pages/classicdoubtdice.a6b0a919051efe7d6a41.js",
-    "layouts/fullplay.932832d5f9c491dc8887.js",
+    "layouts/fullplay.a6e7295a2be2d52096b1.js",
     "pages/about.90353bc655b2f2bd172c.js",
     "layouts/default.792df06c8c93e56e5d8b.js",
     "pages/classicroulette.8596a66be06f3eec3a75.js",
@@ -94,9 +94,6 @@
     ],
     "45237460": [
       26
-    ],
-    "48205211": [
-      18
     ],
     "51316819": [
       26
@@ -245,9 +242,6 @@
     "0247cbce": [
       26
     ],
-    "6aae287e": [
-      18
-    ],
     "021bdf3c": [
       26
     ],
@@ -268,6 +262,9 @@
     ],
     "e8af8bb8": [
       26
+    ],
+    "f5485590": [
+      13
     ],
     "689a6134": [
       26
@@ -372,9 +369,6 @@
     ],
     "45eb2dd0": [
       15
-    ],
-    "ed02f076": [
-      18
     ],
     "63c4e02a": [
       13
@@ -502,9 +496,6 @@
     "47b212a6": [
       26
     ],
-    "f59db8d4": [
-      13
-    ],
     "5ac241c5": [
       26
     ],
@@ -603,6 +594,9 @@
     "4971c426": [
       26
     ],
+    "504e1269": [
+      18
+    ],
     "4457387f": [
       26
     ],
@@ -641,6 +635,9 @@
     ],
     "4a3c022f": [
       22
+    ],
+    "0cf1c4cc": [
+      11
     ],
     "777ea280": [
       23
@@ -1109,8 +1106,8 @@
     "2a45339e": [
       26
     ],
-    "0080f7e6": [
-      13
+    "8ba44626": [
+      18
     ],
     "9d700eb4": [
       26
@@ -1308,6 +1305,9 @@
     ],
     "40697af1": [
       26
+    ],
+    "45f9f05e": [
+      13
     ],
     "09a12647": [
       26
@@ -1663,6 +1663,9 @@
     "19d95daa": [
       26
     ],
+    "b61249aa": [
+      13
+    ],
     "635ae038": [
       0
     ],
@@ -1799,6 +1802,9 @@
     ],
     "4b52d450": [
       26
+    ],
+    "317db322": [
+      18
     ],
     "617b52ca": [
       27,
@@ -2055,9 +2061,6 @@
     "0b29adf8": [
       13
     ],
-    "464f53a2": [
-      13
-    ],
     "482d5bba": [
       26
     ],
@@ -2241,9 +2244,6 @@
     "9982477e": [
       26
     ],
-    "69bda2af": [
-      11
-    ],
     "88c74ed4": [
       26
     ],
@@ -2295,6 +2295,9 @@
     ],
     "6d4ece42": [
       26
+    ],
+    "8b4c6946": [
+      12
     ],
     "df5c64aa": [
       26
@@ -2355,6 +2358,20 @@
     "02f49306": [
       15
     ],
+    "4b236456": [
+      27,
+      1,
+      16,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "5d2a60a8": [
       26
     ],
@@ -2379,20 +2396,39 @@
     "52b37d22": [
       26
     ],
-    "aedd9290": [
-      12
-    ],
     "03a2482a": [
       26
+    ],
+    "2a6ad118": [
+      27,
+      1,
+      16,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
     ],
     "7b997a68": [
       26
     ],
-    "17a938f8": [
-      26
-    ],
-    "30cc7458": [
-      17
+    "e0bdc3f0": [
+      27,
+      1,
+      16,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
     ],
     "28ec99a8": [
       27,
@@ -2407,6 +2443,15 @@
       8,
       9,
       10
+    ],
+    "17a938f8": [
+      26
+    ],
+    "629e580d": [
+      26
+    ],
+    "30cc7458": [
+      17
     ],
     "6cdc6fbe": [
       27,
@@ -2429,51 +2474,6 @@
       26
     ],
     "2cc04730": [
-      26
-    ],
-    "e0bdc3f0": [
-      27,
-      1,
-      16,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10
-    ],
-    "2a6ad118": [
-      27,
-      1,
-      16,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10
-    ],
-    "4b236456": [
-      27,
-      1,
-      16,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10
-    ],
-    "629e580d": [
       26
     ],
     "7565cfba": [
