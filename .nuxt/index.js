@@ -17,6 +17,7 @@ import nuxt_plugin_vueslidercomponent_6d7bde24 from 'nuxt_plugin_vueslidercompon
 import nuxt_plugin_network_54b08df8 from 'nuxt_plugin_network_54b08df8' // Source: ../src/plugins/network (ssr: false)
 import nuxt_plugin_web3js_2e790844 from 'nuxt_plugin_web3js_2e790844' // Source: ../src/plugins/web3js (ssr: false)
 import nuxt_plugin_web3api_2fabde25 from 'nuxt_plugin_web3api_2fabde25' // Source: ../src/plugins/web3api (ssr: false)
+import nuxt_plugin_three_2f703e2c from 'nuxt_plugin_three_2f703e2c' // Source: ../src/plugins/three.collada (ssr: false)
 
 
 // Component: <no-ssr>
@@ -162,6 +163,7 @@ async function createApp (ssrContext) {
     if (typeof nuxt_plugin_network_54b08df8 === 'function') await nuxt_plugin_network_54b08df8(app.context, inject)
     if (typeof nuxt_plugin_web3js_2e790844 === 'function') await nuxt_plugin_web3js_2e790844(app.context, inject)
     if (typeof nuxt_plugin_web3api_2fabde25 === 'function') await nuxt_plugin_web3api_2fabde25(app.context, inject)
+    if (typeof nuxt_plugin_three_2f703e2c === 'function') await nuxt_plugin_three_2f703e2c(app.context, inject)
   }
 
   // If server-side, wait for async component to be resolved first
