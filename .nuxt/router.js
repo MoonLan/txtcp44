@@ -3,19 +3,25 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-const _1ccda72e = () => import('../src/pages/classicmine.vue' /* webpackChunkName: "pages/classicmine" */).then(m => m.default || m)
+const _48eb892e = () => import('../src/pages/classicxixiv22.vue' /* webpackChunkName: "pages/classicxixiv22" */).then(m => m.default || m)
 const _7b1e370d = () => import('../src/pages/slotmachine.vue' /* webpackChunkName: "pages/slotmachine" */).then(m => m.default || m)
-const _2509b30c = () => import('../src/pages/classticketgame.vue' /* webpackChunkName: "pages/classticketgame" */).then(m => m.default || m)
-const _9895d4c6 = () => import('../src/pages/classicdoubtdice.vue' /* webpackChunkName: "pages/classicdoubtdice" */).then(m => m.default || m)
-const _3496638a = () => import('../src/pages/classicroulette.vue' /* webpackChunkName: "pages/classicroulette" */).then(m => m.default || m)
-const _dce4d994 = () => import('../src/pages/bankoper.vue' /* webpackChunkName: "pages/bankoper" */).then(m => m.default || m)
-const _b6c70788 = () => import('../src/pages/404.vue' /* webpackChunkName: "pages/404" */).then(m => m.default || m)
-const _19278dde = () => import('../src/pages/about.vue' /* webpackChunkName: "pages/about" */).then(m => m.default || m)
-const _6f06419a = () => import('../src/pages/classicxixiv1.vue' /* webpackChunkName: "pages/classicxixiv1" */).then(m => m.default || m)
-const _b6e3368a = () => import('../src/pages/403.vue' /* webpackChunkName: "pages/403" */).then(m => m.default || m)
-const _580f8f9b = () => import('../src/pages/buycoin.vue' /* webpackChunkName: "pages/buycoin" */).then(m => m.default || m)
 const _6eea1298 = () => import('../src/pages/classicxixiv2.vue' /* webpackChunkName: "pages/classicxixiv2" */).then(m => m.default || m)
+const _9895d4c6 = () => import('../src/pages/classicdoubtdice.vue' /* webpackChunkName: "pages/classicdoubtdice" */).then(m => m.default || m)
+const _dce4d994 = () => import('../src/pages/bankoper.vue' /* webpackChunkName: "pages/bankoper" */).then(m => m.default || m)
+const _48dd71ad = () => import('../src/pages/classicxixiv21.vue' /* webpackChunkName: "pages/classicxixiv21" */).then(m => m.default || m)
+const _b6e3368a = () => import('../src/pages/403.vue' /* webpackChunkName: "pages/403" */).then(m => m.default || m)
+const _6e958592 = () => import('../src/pages/classicxixiv5.vue' /* webpackChunkName: "pages/classicxixiv5" */).then(m => m.default || m)
 const _6ecde396 = () => import('../src/pages/classicxixiv3.vue' /* webpackChunkName: "pages/classicxixiv3" */).then(m => m.default || m)
+const _6f06419a = () => import('../src/pages/classicxixiv1.vue' /* webpackChunkName: "pages/classicxixiv1" */).then(m => m.default || m)
+const _19278dde = () => import('../src/pages/about.vue' /* webpackChunkName: "pages/about" */).then(m => m.default || m)
+const _6e795690 = () => import('../src/pages/classicxixiv6.vue' /* webpackChunkName: "pages/classicxixiv6" */).then(m => m.default || m)
+const _6eb1b494 = () => import('../src/pages/classicxixiv4.vue' /* webpackChunkName: "pages/classicxixiv4" */).then(m => m.default || m)
+const _2509b30c = () => import('../src/pages/classticketgame.vue' /* webpackChunkName: "pages/classticketgame" */).then(m => m.default || m)
+const _580f8f9b = () => import('../src/pages/buycoin.vue' /* webpackChunkName: "pages/buycoin" */).then(m => m.default || m)
+const _48cf5a2c = () => import('../src/pages/classicxixiv20.vue' /* webpackChunkName: "pages/classicxixiv20" */).then(m => m.default || m)
+const _3496638a = () => import('../src/pages/classicroulette.vue' /* webpackChunkName: "pages/classicroulette" */).then(m => m.default || m)
+const _b6c70788 = () => import('../src/pages/404.vue' /* webpackChunkName: "pages/404" */).then(m => m.default || m)
+const _1ccda72e = () => import('../src/pages/classicmine.vue' /* webpackChunkName: "pages/classicmine" */).then(m => m.default || m)
 const _7bb395b8 = () => import('../src/pages/c_tunnel_fly.vue' /* webpackChunkName: "pages/c_tunnel_fly" */).then(m => m.default || m)
 const _132413d6 = () => import('../src/pages/index.vue' /* webpackChunkName: "pages/index" */).then(m => m.default || m)
 
@@ -78,9 +84,9 @@ export function createRouter () {
     scrollBehavior,
     routes: [
 		{
-			path: "/classicmine",
-			component: _1ccda72e,
-			name: "classicmine"
+			path: "/classicxixiv22",
+			component: _48eb892e,
+			name: "classicxixiv22"
 		},
 		{
 			path: "/slotmachine",
@@ -88,9 +94,9 @@ export function createRouter () {
 			name: "slotmachine"
 		},
 		{
-			path: "/classticketgame",
-			component: _2509b30c,
-			name: "classticketgame"
+			path: "/classicxixiv2",
+			component: _6eea1298,
+			name: "classicxixiv2"
 		},
 		{
 			path: "/classicdoubtdice",
@@ -98,29 +104,14 @@ export function createRouter () {
 			name: "classicdoubtdice"
 		},
 		{
-			path: "/classicroulette",
-			component: _3496638a,
-			name: "classicroulette"
-		},
-		{
 			path: "/bankoper",
 			component: _dce4d994,
 			name: "bankoper"
 		},
 		{
-			path: "/404",
-			component: _b6c70788,
-			name: "404"
-		},
-		{
-			path: "/about",
-			component: _19278dde,
-			name: "about"
-		},
-		{
-			path: "/classicxixiv1",
-			component: _6f06419a,
-			name: "classicxixiv1"
+			path: "/classicxixiv21",
+			component: _48dd71ad,
+			name: "classicxixiv21"
 		},
 		{
 			path: "/403",
@@ -128,19 +119,64 @@ export function createRouter () {
 			name: "403"
 		},
 		{
-			path: "/buycoin",
-			component: _580f8f9b,
-			name: "buycoin"
-		},
-		{
-			path: "/classicxixiv2",
-			component: _6eea1298,
-			name: "classicxixiv2"
+			path: "/classicxixiv5",
+			component: _6e958592,
+			name: "classicxixiv5"
 		},
 		{
 			path: "/classicxixiv3",
 			component: _6ecde396,
 			name: "classicxixiv3"
+		},
+		{
+			path: "/classicxixiv1",
+			component: _6f06419a,
+			name: "classicxixiv1"
+		},
+		{
+			path: "/about",
+			component: _19278dde,
+			name: "about"
+		},
+		{
+			path: "/classicxixiv6",
+			component: _6e795690,
+			name: "classicxixiv6"
+		},
+		{
+			path: "/classicxixiv4",
+			component: _6eb1b494,
+			name: "classicxixiv4"
+		},
+		{
+			path: "/classticketgame",
+			component: _2509b30c,
+			name: "classticketgame"
+		},
+		{
+			path: "/buycoin",
+			component: _580f8f9b,
+			name: "buycoin"
+		},
+		{
+			path: "/classicxixiv20",
+			component: _48cf5a2c,
+			name: "classicxixiv20"
+		},
+		{
+			path: "/classicroulette",
+			component: _3496638a,
+			name: "classicroulette"
+		},
+		{
+			path: "/404",
+			component: _b6c70788,
+			name: "404"
+		},
+		{
+			path: "/classicmine",
+			component: _1ccda72e,
+			name: "classicmine"
 		},
 		{
 			path: "/c:tunnel_fly",
